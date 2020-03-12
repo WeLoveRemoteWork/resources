@@ -15,5 +15,11 @@ If you have good things to add, please [fork this repository](https://help.githu
 ## Articles and guides (only ones with free access)
 
 - [What not to do when implementing remote: don't replicate the in-office experience remotely](https://about.gitlab.com/company/culture/all-remote/what-not-to-do/)
-
 - [5 of our favorite virtual team-building activities to grow a strong remote team](https://www.hotjar.com/blog/virtual-team-building-activities/)
+- [7 Tips for Remote Workers to Make You More Productive and Less Stressed](https://www.inc.com/jason-aten/7-tips-for-remote-workers-to-make-you-more-productive-less-stressed.html)
+- [The 2020 State of Remote Work](https://lp.buffer.com/state-of-remote-work-2020)
+- [How to Avoid Distractions When You're Working Remotely](https://remoteyear.com/blog/avoid-distractions-when-working-remotely)
+- [The Remote Work Report by GitLab: The Future of Work is Remote](https://about.gitlab.com/remote-work-report)
+- [The Basecamp Guide to Internal Communication](https://basecamp.com/guides/how-we-communicate)
+- [Becoming a high performing software developer working from your bedroom](https://zephony.com/remote-software-developer-productivity)
+- [Remote Mob Programming](https://www.remotemobprogramming.org/)
