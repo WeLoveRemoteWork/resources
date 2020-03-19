@@ -23,3 +23,4 @@ If you have good things to add, please [fork this repository](https://help.githu
 - [The Basecamp Guide to Internal Communication](https://basecamp.com/guides/how-we-communicate)
 - [Becoming a high performing software developer working from your bedroom](https://zephony.com/remote-software-developer-productivity)
 - [Remote Mob Programming](https://www.remotemobprogramming.org/)
+- [Notion Remote work wiki](https://www.notion.so/notion/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
