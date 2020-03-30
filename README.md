@@ -24,3 +24,7 @@ If you have good things to add, please [fork this repository](https://help.githu
 - [Becoming a high performing software developer working from your bedroom](https://zephony.com/remote-software-developer-productivity)
 - [Remote Mob Programming](https://www.remotemobprogramming.org/)
 - [Notion Remote work wiki](https://www.notion.so/notion/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
+
+## Videos
+
+- [Going Remote: Basecamp Walkthrough Livestream with Jason Friend and David Heinemeier Hansson](https://www.twitch.tv/videos/574380757)
